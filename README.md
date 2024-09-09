@@ -1,3 +1,2 @@
 # Publications-Research-Group
-This repository contains a list of publications that have been produced by members or previous member of of our research group "Maternal-Fetal-Neonatal-Research, Western Norway (G16)" within the Institute of Clinical Sciences,
-at the University of Bergen, Norway. This list is limited to relevant articles within the field of obstetrics, fetal physiology, and fetal medicine.
+This repository contains a list of articles or books that have been authored and co-authored by members of of our research group "Maternal-Fetal-Neonatal-Research, Western Norway (G16)", Institute of Clinical Sciences K2, University of Bergen, Norway. The list is limited to relevant articles within the field of fetal growth & development, fetal physiology & circulation, as well pregnancy length.
